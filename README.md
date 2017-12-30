@@ -4,12 +4,19 @@
 
 **Things i have learnt**
 
-1. TODO 😂
+1. Android, i have learnt Android development while i was doing my bachelor's. Also developing apps for Android in my extra time
+2. PHP,I learnt basics of PHP also when i was doing my bachelor's.
+3. Java, I am not really that good for developing apps for production.
+4. iOS, i started my career with iOS. I started with internship for iOS Developer and now a pretty much good at iOS development.
+5. Wordpress, well based on PHP, i have done few sites using wordpress and wrote few plugins for those sites.
+6. Git, Lol 😂, I'm adding GIT in this section because i had no idea about what git was. I created a small local repository and now playing with multiple branches and all those things.
+
 
 **TODO**
 
-1. TODO? 😂 Complete your first section you idiot
-
+1. Publish library created for adding annotation on map for iOS
+2. Update README.md for PJButton
+3. Secret 😋.
 
 **Link Base**
 
